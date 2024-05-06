@@ -16,6 +16,8 @@
 - PowerBI: Used for data visualization, analysis, and reporting.
 - SQL: Used for data preprocessing and querying if required.
 
+![Figure 1](https://raw.githubusercontent.com/udayaKherath/PowerBI-Insights/main/db.jpg)
+
 
 # HR Data Analysis Project
 
@@ -34,4 +36,6 @@
 
 - PowerBI: Used for data visualization, analysis, and reporting.
 - SQL: Used for data preprocessing and querying if required.
+
+![Figure 2](https://raw.githubusercontent.com/udayaKherath/PowerBI-Insights/main/dasboard.jpg)
 
