@@ -39,3 +39,7 @@
 
 ![Figure 2](https://raw.githubusercontent.com/udayaKherath/PowerBI-Insights/main/dashboard.jpg)
 
+### A corporate strategy planner dashboard offers numerous advantages that can help organizations drive success, achieve their goals, and stay competitive in today's dynamic business environment.
+
+![Figure 2](https://raw.githubusercontent.com/udayaKherath/PowerBI-Insights/main/img1.jpg)
+
